@@ -86,7 +86,7 @@ The same four files are also available under `deliverables/`.
 | Name | GitHub |
 |---|---|
 | Çağan Erdem Üstündağ | [@Caagan](https://github.com/Caagan) |
-| Begüm Somay | – |
+| Begüm Somay |[@begumsomay](https://github.com/begumsomay)|
 
 ## Repository layout / Depo yapısı
 
